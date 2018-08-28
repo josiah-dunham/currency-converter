@@ -1,0 +1,13 @@
+.currency-list {
+	margin-left: 10px;
+}
+
+.form-control.invalid-input {
+	background-color: salmon;
+	border-color: red;
+}
+
+.switch-col {
+	padding: 3% 1%;
+}
+
